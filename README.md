@@ -29,8 +29,8 @@ Process:
 
 Log In: Sign into GitHub (e.g., as "Maloba-e").
 New Repo: Click "+" > New Repository.
-Name It: E.g., resource-pulse (or myrepo in your case).
-Visibility: Pick public or private (more below).
+Name It: E.g., resource-pulse.
+Visibility: Pick public or private.
 Initialize: Optional—add README, .gitignore, or license (skip for now if pushing local code).
 Create: Hit "Create Repository" to get https://github.com/Maloba-e/resource-pulse.git.
 
