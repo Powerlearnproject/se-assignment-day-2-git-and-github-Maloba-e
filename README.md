@@ -48,7 +48,7 @@ The README is your project’s front door—explains what it is, how to use it, 
 
 What to Include:
 
-Title: "Resource Pulse: SDG Resource Tracker."
+Title: "Resource Pulse."
 Description: “A web app to map and share food, water, and energy for SDGs.”
 Setup: Install steps (e.g., npm install, node server.js).
 Usage: How to add a pulse or view the map.
